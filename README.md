@@ -21,3 +21,6 @@ Bookmark this page to download the latest versions in the future.
 - [OSX 10.10 and above](https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer-preview.dmg)
 - [Ubuntu 14.04 32 bit](https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer-preview-32-bit.deb)
 - [Ubuntu 14.04 64 bit](https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer-preview-64-bit.deb)
+
+If the service cannot be replied, please refund the pro users!
+如果服务不能恢复，请给专业版用户退款！
